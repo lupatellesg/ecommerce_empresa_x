@@ -19,3 +19,9 @@ __melhoria 1__, melhoria 2, _melhoria 3_
 * PHYTON
 * JAVA
 * MySQL
+
+### Funcionalidades a desenvolver
+
+1. Área de membros
+2. Integração com outros pagamentos
+3. Sistema de bônus primeira compra
