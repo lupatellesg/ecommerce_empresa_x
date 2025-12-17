@@ -42,3 +42,5 @@ __melhoria 1__, melhoria 2, _melhoria 3_
 [Google](https://www.google.com)
 
 [https://horadecodar.com.br/](https://horadecodar.com.br/)
+
+Contribuidor principal: https://github.com/lupatellesg
