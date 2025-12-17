@@ -35,6 +35,4 @@ __melhoria 1__, melhoria 2, _melhoria 3_
 
 #### Imagem externa:
 
-![Logo PHP][def]
-
-[def]: https://images.seeklogo.com/logo-png/10/1/php-logo-png_seeklogo-108600.png
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
